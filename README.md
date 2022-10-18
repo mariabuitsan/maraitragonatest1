@@ -38,9 +38,8 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
 
 # Lost in translation with this tools
 
->  
-    Nos teus olhos altamente perigosos
-    >><strong>In your dangerous eyes</strong>
+>   Nos teus olhos altamente perigosos
+    <p><strong>In your dangerous eyes</strong></p>
     vigora ainda o mais rigoroso amor
     >**the strictest love still prevails**
     a luz dos ombros pura e a sombra
