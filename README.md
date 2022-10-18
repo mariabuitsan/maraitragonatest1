@@ -1,42 +1,34 @@
 # maraitragonatest1
 this repo is my first test using this tool. Honestly I don't think I've heard of this tool before. Or perhaps, I have seen it, that is, I've seen other's peoples repositories but never really understood what was I looking at. Therefore, now, that I sort of can do something in this mark down file, let me copy a poem:
 
-
 <h1> Um Adeus Português, Alexandre O' Neill</h1>
 
 <em>or</em>
 
-
 ## Un Adiós Portugés, Alexandre O' Neill
 
-</em>or</em>
+<em>or</em>
 
 <h2>A Portuguese Farawell </h2>
 
-> 
-Não tu não podias ficar presa comigo
-à roda em que apodreço
-apodrecemos 
-
+>   Não tu não podias ficar presa comigo 
+    à roda em que apodreço 
+    apodrecemos
 
 <em>or</em>
 
->>
 
-<p>
-No tu no podias estar atrapada conmigo
-en la rueda en que me <strong>pudro</strong>
-<strong>nos pudrimos</strong>
-
-</p>
+<p>No tu no podias estar atrapada conmigo<br>
+<p> en la rueda en que me <strong>pudro</strong><br>
+<p><strong>nos pudrimos</strong></p>
 
 <em>or</em>
 
-<p>No you <strong>couldn't</strong> be stuck with me 
-to the wheel in which I rot 
-we rot</p>
+<p>No you <strong>couldn't</strong> be stuck with me</p>
+<p>to the wheel in which I rot</p>
+<p>we rot</p>
 
-<p><strong>bolded words for consideration</strong></p>
+<p><strong>bolded words are for consideration</strong></p>
 
 <p>listen to the poem here: (https://soundcloud.com/allan-kenayt/um-adeus-portugues-alexandre-oneill)</p>
 
