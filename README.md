@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
 
 # Lost in translation with this tools
 
->  <p>
+>  
     Nos teus olhos altamente perigosos<br>
     <em>In your dangerous eyes</em><br>
     vigora ainda o mais rigoroso amor<br>
@@ -110,7 +110,7 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
     e como um adolescente<br>
     tropeço de ternura<br>
     por ti<br>
-</p>
+
 
 
 # Conclusion
