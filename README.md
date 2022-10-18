@@ -39,76 +39,76 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
 # Lost in translation with this tools
 
 >   Nos teus olhos altamente perigosos
-    <p><strong>In your dangerous eyes</strong></p>
+    <strong>In your dangerous eyes</strong>
     vigora ainda o mais rigoroso amor
-    >**the strictest love still prevails**
+    **the strictest love still prevails**
     a luz dos ombros pura e a sombra
-    >**the light of the shoulders pure and the shadow**
+    **the light of the shoulders pure and the shadow**
     duma angústia já purificada
-    >**from an anguish already purified**
+    **from an anguish already purified**
 
-    Não tu não podias ficar presa comigo<br>
-    à roda em que apodreço<br>
-    apodrecemos<br>
-    a esta pata ensanguentada que vacila<br>
-    quase medita<br>
-    e avança mugindo pelo túnel<br>
-    de uma velha dor<br>
+>>      Não tu não podias ficar presa comigo
+        à roda em que apodreço
+        apodrecemos
+        a esta pata ensanguentada que vacila
+        quase medita
+        e avança mugindo pelo túnel
+        de uma velha dor
 
-    Não podias ficar nesta cadeira<br>
-    onde passo o dia burocrático<br>
-    o dia-a-dia da miséria<br>
-    que sobe aos olhos vem às mãos<br>
-    aos sorrisos<br>
-    ao amor mal soletrado<br>
-    à estupidez ao desespero sem boca<br>
-    ao medo perfilado<br>
-    à alegria sonâmbula à vírgula maníaca<br>
-    do modo funcionário de viver<br>
+>>  Não podias ficar nesta cadeira
+    onde passo o dia burocrático
+    o dia-a-dia da miséria
+    que sobe aos olhos vem às mãos
+    aos sorrisos
+    ao amor mal soletrado
+    à estupidez ao desespero sem boca
+    ao medo perfilado
+    à alegria sonâmbula à vírgula maníaca
+    do modo funcionário de viver
 
-    Não podias ficar nesta casa comigo<br>
+>    Não podias ficar nesta casa comigo
     <em>You couldn't stay in this house with me</em>
-    em trânsito mortal até ao dia sórdido<br>
-    <em>in mortal transit <strong>towards</strong>the sordid day</em><br>
-    canino<br>
-    <em>canine</em><br>
-    policial<br>
-    <strong>can't translate</strong><br>
-    até ao dia que não vem da promessa<br>
-    puríssima da madrugada<br>
-    mas da miséria de uma noite gerada<br>
-    por um dia igual<br>
+    em trânsito mortal até ao dia sórdido
+    <em>in mortal transit <strong>towards</strong>the sordid day</em>
+    canino
+    <em>canine</em>
+    policial
+    <strong>can't translate</strong>
+    até ao dia que não vem da promessa
+    puríssima da madrugada
+    mas da miséria de uma noite gerada
+    por um dia igual
 
-    Não podia ficar presa comigo<br>
-    à pequena dor que cada um de nós<br>
-    traz docemente pela mão<br>
-    a esta pequena dor à portuguesa<br>
-    tão mansa quase vegetal<br>
+>    Não podia ficar presa comigo
+    à pequena dor que cada um de nós
+    traz docemente pela mão
+    a esta pequena dor à portuguesa
+    tão mansa quase vegetal
 
-    Mas tu não mereces esta cidade não mereces<br>
+ >   Mas tu não mereces esta cidade não mereces
     <em>Más tu no mereces esta ciudad, no mereces</em>
-    esta roda de náusea em que giramos<br>
-    até à idiotia<br>
-    esta pequena morte<br>
-    e ao seu minuciosa e porco ritual<br>
-    esta nossa razão absurda de ser<br>
+    esta roda de náusea em que giramos
+    até à idiotia
+    esta pequena morte
+    e ao seu minuciosa e porco ritual
+    esta nossa razão absurda de ser
 
-    Não tu és da cidade aventureira<br>
-    da cidade onde o amor encontra as suas ruas<br>
-    e o cemitério ardente<br>
-    da sua morte<br>
-    tu és da cidade onde vives por um fio<br>
-    de puro acaso<br>
-    onde morres ou vives não de asfixia<br>
-    mas às mãos de uma aventura de um comércio puro<br>
-    sem a moeda falsa do bem e do mal<br>
+>    Não tu és da cidade aventureira
+    da cidade onde o amor encontra as suas ruas
+    e o cemitério ardente
+    da sua morte
+    tu és da cidade onde vives por um fio
+    de puro acaso
+    onde morres ou vives não de asfixia
+    mas às mãos de uma aventura de um comércio puro
+    sem a moeda falsa do bem e do mal
 
-    Nesta curva tão terna e lancinante<br>
-    que vai ser que já é o teu desaparecimento<br>
-    digo-te adeus<br>
-    e como um adolescente<br>
-    tropeço de ternura<br>
-    por ti<br>
+ >   Nesta curva tão terna e lancinante
+    que vai ser que já é o teu desaparecimento
+    digo-te adeus
+    e como um adolescente
+    tropeço de ternura
+    por ti
 
 
 
