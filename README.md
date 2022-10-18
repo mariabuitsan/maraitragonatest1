@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
 
 >  
     Nos teus olhos altamente perigosos
-    >**In your dangerous eyes**
+    >><strong>In your dangerous eyes</strong>
     vigora ainda o mais rigoroso amor
     >**the strictest love still prevails**
     a luz dos ombros pura e a sombra
