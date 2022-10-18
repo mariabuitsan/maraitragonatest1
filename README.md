@@ -4,31 +4,34 @@ this repo is my first test using this tool. Honestly I don't think I've heard of
 
 <h1> Um Adeus Português, Alexandre O' Neill</h1>
 
-<p>or</p>
+<em>or</em>
 
 
 ## Un Adiós Portugés, Alexandre O' Neill
 
-</p>or</p>
+</em>or</em>
 
-<h2>
-A Portuguese Farawell 
-</h2>
+<h2>A Portuguese Farawell </h2>
 
->
-</p>Não tu não podias ficar presa comigo
+> 
+Não tu não podias ficar presa comigo
 à roda em que apodreço
-apodrecemos
-</p>
->
+apodrecemos 
 
-<h1>or</h1>
+
+<em>or</em>
+
 >>
-<p>No tu no podias estar atrapada conmigo
-en la rueda en que me <strong>pudro</strong>
-<strong>nos pudrimos</strong></p>>>
 
-<h2>or</h2>
+<p>
+No tu no podias estar atrapada conmigo
+en la rueda en que me <strong>pudro</strong>
+<strong>nos pudrimos</strong>
+
+</p>
+
+<em>or</em>
+
 <p>No you <strong>couldn't</strong> be stuck with me 
 to the wheel in which I rot 
 we rot</p>
