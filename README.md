@@ -38,9 +38,9 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
 
 # Conclusion
 
-<p>Alexandre O'Neill lived the Salazar dictatorship in Portugal. The <em>Irish Time</em> explains the context of his poetry:
->  
-    "He lived through the Salazar dictatorship in Portugal and that is the background to a lot of his poetry, so much of it is fuelled by anger," he says. Some of this emanated from O'Neill's love of a French girl, Nora Mitrani. When she left Portugal (she later committed suicide) the regime refused him a passport to follow her, a predicament that forms the background to one of his most famous poems, 'Um Adeus Português' (A Portuguese Farewell')"
+<p>Alexandre O'Neill lived the Salazar dictatorship in Portugal. The <em>Irish Time</em> explains the context of his poetry:<br>
+
+>   "He lived through the Salazar dictatorship in Portugal and that is the background to a lot of his poetry, so much of it is fuelled by anger," he says. Some of this emanated from O'Neill's love of a French girl, Nora Mitrani. When she left Portugal (she later committed suicide) the regime refused him a passport to follow her, a predicament that forms the background to one of his most famous poems, 'Um Adeus Português' (A Portuguese Farewell')"
 
 
 
