@@ -33,8 +33,85 @@ this repo is my first test using this tool. Honestly I don't think I've heard of
 <p>listen to the poem here:<br>
 https://soundcloud.com/allan-kenayt/um-adeus-portugues-alexandre-oneill</p>
 
-<p>and here is just one of the videos that I desperately needed to do this copy this poem with this tool:<br>
+<p>and here is just one of the videos that I desperately needed to do copy this poem with this tool:<br>
 https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
+
+# Lost in translation with this tools
+
+>  <p>
+    Nos teus olhos altamente perigosos<br>
+    <em>In your dangerous eyes</em><br>
+    vigora ainda o mais rigoroso amor<br>
+    <em>the strictest love still prevails</em><br>
+    a luz dos ombros pura e a sombra<br>
+    <em>the light of the shoulders pure and the shadow</em><br>
+    duma angústia já purificada<br>
+    <em>from an anguish already purified</em><br>
+
+    Não tu não podias ficar presa comigo<br>
+    à roda em que apodreço<br>
+    apodrecemos<br>
+    a esta pata ensanguentada que vacila<br>
+    quase medita<br>
+    e avança mugindo pelo túnel<br>
+    de uma velha dor<br>
+
+    Não podias ficar nesta cadeira<br>
+    onde passo o dia burocrático<br>
+    o dia-a-dia da miséria<br>
+    que sobe aos olhos vem às mãos<br>
+    aos sorrisos<br>
+    ao amor mal soletrado<br>
+    à estupidez ao desespero sem boca<br>
+    ao medo perfilado<br>
+    à alegria sonâmbula à vírgula maníaca<br>
+    do modo funcionário de viver<br>
+
+    Não podias ficar nesta casa comigo<br>
+    <em>You couldn't stay in this house with me</em>
+    em trânsito mortal até ao dia sórdido<br>
+    <em>in mortal transit <strong>towards</strong>the sordid day</em><br>
+    canino<br>
+    <em>canine</em><br>
+    policial<br>
+    <strong>can't translate</strong><br>
+    até ao dia que não vem da promessa<br>
+    puríssima da madrugada<br>
+    mas da miséria de uma noite gerada<br>
+    por um dia igual<br>
+
+    Não podia ficar presa comigo<br>
+    à pequena dor que cada um de nós<br>
+    traz docemente pela mão<br>
+    a esta pequena dor à portuguesa<br>
+    tão mansa quase vegetal<br>
+
+    Mas tu não mereces esta cidade não mereces<br>
+    <em>Más tu no mereces esta ciudad, no mereces</em>
+    esta roda de náusea em que giramos<br>
+    até à idiotia<br>
+    esta pequena morte<br>
+    e ao seu minuciosa e porco ritual<br>
+    esta nossa razão absurda de ser<br>
+
+    Não tu és da cidade aventureira<br>
+    da cidade onde o amor encontra as suas ruas<br>
+    e o cemitério ardente<br>
+    da sua morte<br>
+    tu és da cidade onde vives por um fio<br>
+    de puro acaso<br>
+    onde morres ou vives não de asfixia<br>
+    mas às mãos de uma aventura de um comércio puro<br>
+    sem a moeda falsa do bem e do mal<br>
+
+    Nesta curva tão terna e lancinante<br>
+    que vai ser que já é o teu desaparecimento<br>
+    digo-te adeus<br>
+    e como um adolescente<br>
+    tropeço de ternura<br>
+    por ti<br>
+</p>
+
 
 # Conclusion
 
