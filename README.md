@@ -39,14 +39,14 @@ https://www.youtube.com/watch?v=hMEyBtsuAJE&t=1s</p>
 # Lost in translation with this tools
 
 >  
-    Nos teus olhos altamente perigosos<br>
-    <em>In your dangerous eyes</em><br>
-    vigora ainda o mais rigoroso amor<br>
-    <em>the strictest love still prevails</em><br>
-    a luz dos ombros pura e a sombra<br>
-    <em>the light of the shoulders pure and the shadow</em><br>
-    duma angústia já purificada<br>
-    <em>from an anguish already purified</em><br>
+    Nos teus olhos altamente perigosos
+    <em>In your dangerous eyes</em>
+    vigora ainda o mais rigoroso amor
+    <em>the strictest love still prevails</em>
+    a luz dos ombros pura e a sombra
+    <em>the light of the shoulders pure and the shadow</em>
+    duma angústia já purificada
+    <em>from an anguish already purified</em>
 
     Não tu não podias ficar presa comigo<br>
     à roda em que apodreço<br>
