@@ -14,15 +14,15 @@ apodrecemos</p>
 
 <h1>or</h1>
 <p>No tu no podias estar atrapada conmigo
-en la rueda en que me **pudro**
-**nos pudrimos**</p>
+en la rueda en que me <strong>pudro</strong>
+<strong>nos pudrimos</strong></p>
 
 <h2>or</h2>
-<p>No you **couldn't** be stuck with me 
+<p>No you <strong>couldn't</strong> be stuck with me 
 to the wheel in which I rot 
 we rot</p>
 
-<p>**bolded words for consideration**</p>
+<p><strong>bolded words for consideration</strong></p>
 
 
 
